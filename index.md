@@ -1,8 +1,8 @@
 ## Welcome to Anastik's Pages
 
-You can use the [editor on GitHub](https://github.com/Anastik/anastik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm interested in Github as lots of projects in the cryptospace seem to use this platform as a way to collaborate on their projects and to share their work with the community at large. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've got a little HTML, Python and Javascript experience from college, but I'm by no means an expert. I'm going to use Github to follow ICOs and projects that I think have a future in the crypto asset trading world. 
 
 ### Markdown
 
